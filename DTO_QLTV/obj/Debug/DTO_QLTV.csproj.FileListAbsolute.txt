@@ -1,0 +1,59 @@
+D:\TaiLieuKi2-Năm4\ThucTapCNTT\QLTV\DTO_QLTV\bin\Debug\DTO_QLTV.dll.config
+D:\TaiLieuKi2-Năm4\ThucTapCNTT\QLTV\DTO_QLTV\bin\Debug\DTO_QLTV.dll
+D:\TaiLieuKi2-Năm4\ThucTapCNTT\QLTV\DTO_QLTV\bin\Debug\DTO_QLTV.pdb
+D:\TaiLieuKi2-Năm4\ThucTapCNTT\QLTV\DTO_QLTV\bin\Debug\EntityFramework.dll
+D:\TaiLieuKi2-Năm4\ThucTapCNTT\QLTV\DTO_QLTV\bin\Debug\EntityFramework.SqlServer.dll
+D:\TaiLieuKi2-Năm4\ThucTapCNTT\QLTV\DTO_QLTV\bin\Debug\EntityFramework.xml
+D:\TaiLieuKi2-Năm4\ThucTapCNTT\QLTV\DTO_QLTV\bin\Debug\EntityFramework.SqlServer.xml
+D:\TaiLieuKi2-Năm4\ThucTapCNTT\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.csprojAssemblyReference.cache
+D:\TaiLieuKi2-Năm4\ThucTapCNTT\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.csproj.CoreCompileInputs.cache
+D:\TaiLieuKi2-Năm4\ThucTapCNTT\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.csproj.CopyComplete
+D:\TaiLieuKi2-Năm4\ThucTapCNTT\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.dll
+D:\TaiLieuKi2-Năm4\ThucTapCNTT\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.pdb
+D:\TaiLieuKi2-Năm4\LapTrinhTichHop\QLTV\DTO_QLTV\bin\Debug\DTO_QLTV.dll.config
+D:\TaiLieuKi2-Năm4\LapTrinhTichHop\QLTV\DTO_QLTV\bin\Debug\DTO_QLTV.dll
+D:\TaiLieuKi2-Năm4\LapTrinhTichHop\QLTV\DTO_QLTV\bin\Debug\DTO_QLTV.pdb
+D:\TaiLieuKi2-Năm4\LapTrinhTichHop\QLTV\DTO_QLTV\bin\Debug\EntityFramework.dll
+D:\TaiLieuKi2-Năm4\LapTrinhTichHop\QLTV\DTO_QLTV\bin\Debug\EntityFramework.SqlServer.dll
+D:\TaiLieuKi2-Năm4\LapTrinhTichHop\QLTV\DTO_QLTV\bin\Debug\EntityFramework.xml
+D:\TaiLieuKi2-Năm4\LapTrinhTichHop\QLTV\DTO_QLTV\bin\Debug\EntityFramework.SqlServer.xml
+D:\TaiLieuKi2-Năm4\LapTrinhTichHop\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.csproj.CoreCompileInputs.cache
+D:\TaiLieuKi2-Năm4\LapTrinhTichHop\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.csproj.CopyComplete
+D:\TaiLieuKi2-Năm4\LapTrinhTichHop\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.dll
+D:\TaiLieuKi2-Năm4\LapTrinhTichHop\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.pdb
+D:\TaiLieuKi2_Nam4\LapTrinhTichHop\QLTV\DTO_QLTV\bin\Debug\DTO_QLTV.dll.config
+D:\TaiLieuKi2_Nam4\LapTrinhTichHop\QLTV\DTO_QLTV\bin\Debug\DTO_QLTV.dll
+D:\TaiLieuKi2_Nam4\LapTrinhTichHop\QLTV\DTO_QLTV\bin\Debug\DTO_QLTV.pdb
+D:\TaiLieuKi2_Nam4\LapTrinhTichHop\QLTV\DTO_QLTV\bin\Debug\EntityFramework.dll
+D:\TaiLieuKi2_Nam4\LapTrinhTichHop\QLTV\DTO_QLTV\bin\Debug\EntityFramework.SqlServer.dll
+D:\TaiLieuKi2_Nam4\LapTrinhTichHop\QLTV\DTO_QLTV\bin\Debug\EntityFramework.xml
+D:\TaiLieuKi2_Nam4\LapTrinhTichHop\QLTV\DTO_QLTV\bin\Debug\EntityFramework.SqlServer.xml
+D:\TaiLieuKi2_Nam4\LapTrinhTichHop\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.csproj.CoreCompileInputs.cache
+D:\TaiLieuKi2_Nam4\LapTrinhTichHop\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.csproj.CopyComplete
+D:\TaiLieuKi2_Nam4\LapTrinhTichHop\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.dll
+D:\TaiLieuKi2_Nam4\LapTrinhTichHop\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.pdb
+D:\TaiLieuKi2_Nam4\LapTrinhTichHop\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.csprojAssemblyReference.cache
+C:\Users\Huy Hoang\Desktop\QLTV\DTO_QLTV\bin\Debug\DTO_QLTV.dll.config
+C:\Users\Huy Hoang\Desktop\QLTV\DTO_QLTV\bin\Debug\DTO_QLTV.dll
+C:\Users\Huy Hoang\Desktop\QLTV\DTO_QLTV\bin\Debug\DTO_QLTV.pdb
+C:\Users\Huy Hoang\Desktop\QLTV\DTO_QLTV\bin\Debug\EntityFramework.dll
+C:\Users\Huy Hoang\Desktop\QLTV\DTO_QLTV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Huy Hoang\Desktop\QLTV\DTO_QLTV\bin\Debug\EntityFramework.xml
+C:\Users\Huy Hoang\Desktop\QLTV\DTO_QLTV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Huy Hoang\Desktop\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.csproj.AssemblyReference.cache
+C:\Users\Huy Hoang\Desktop\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.csproj.CoreCompileInputs.cache
+C:\Users\Huy Hoang\Desktop\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.csproj.CopyComplete
+C:\Users\Huy Hoang\Desktop\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.dll
+C:\Users\Huy Hoang\Desktop\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.pdb
+D:\5. LTTH\QLTV\DTO_QLTV\bin\Debug\DTO_QLTV.dll.config
+D:\5. LTTH\QLTV\DTO_QLTV\bin\Debug\DTO_QLTV.dll
+D:\5. LTTH\QLTV\DTO_QLTV\bin\Debug\DTO_QLTV.pdb
+D:\5. LTTH\QLTV\DTO_QLTV\bin\Debug\EntityFramework.dll
+D:\5. LTTH\QLTV\DTO_QLTV\bin\Debug\EntityFramework.SqlServer.dll
+D:\5. LTTH\QLTV\DTO_QLTV\bin\Debug\EntityFramework.xml
+D:\5. LTTH\QLTV\DTO_QLTV\bin\Debug\EntityFramework.SqlServer.xml
+D:\5. LTTH\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.csproj.AssemblyReference.cache
+D:\5. LTTH\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.csproj.CoreCompileInputs.cache
+D:\5. LTTH\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.csproj.CopyComplete
+D:\5. LTTH\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.dll
+D:\5. LTTH\QLTV\DTO_QLTV\obj\Debug\DTO_QLTV.pdb
